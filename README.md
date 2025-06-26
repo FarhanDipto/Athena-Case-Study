@@ -9,7 +9,7 @@ The project is a comprehensive internal dashboard built with Retool and backed b
 ## Components
 
 *   `athena-dashboard-retool-app.json`: The exported Retool application source file. This can be imported into a Retool instance to run the app.
-*   `PROJECT_REPORT.md`: A detailed report covering implementation decisions, challenges faced, and potential future improvements.
+*   `PROJECT_REPORT.pdf`: A detailed report covering implementation decisions, challenges faced, and potential future improvements.
 
 ## How to Run
 
